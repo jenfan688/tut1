@@ -23,5 +23,6 @@ public class Greeter {
     Greeter greeter = new Greeter(language, country, name);
     System.out.println(greeter.sayHello());
 	System.out.println("1");
+	System.out.println("2");
   }
 }
