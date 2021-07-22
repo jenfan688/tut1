@@ -25,6 +25,7 @@ public class Greeter {
 	System.out.println("1");
 	System.out.println("2");
 	System.out.println("feature-2 functions ");
-	
+    System.out.println("Replace feature-2");
+
   }
 }
